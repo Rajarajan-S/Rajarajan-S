@@ -14,6 +14,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarajan-s&show_icons=true&locale=en&layout=compact" alt="rajarajan-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajarajan-s&" alt="rajarajan-s" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajarajan-s&" alt="rajarajan-s" /></p>
 
 - 📫 How to reach me **rajarajan.ae6@gmail.com**
