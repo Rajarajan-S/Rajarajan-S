@@ -16,4 +16,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajarajan-s&" alt="rajarajan-s" /></p>
 
-- 📫 How to reach me **rajarajan.ae6@gmail.com**
+- 📫 Reach me at **rajarajan.ae6@gmail.com**
