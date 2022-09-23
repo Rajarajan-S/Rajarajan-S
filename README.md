@@ -1,4 +1,3 @@
-# Rajarajan-S
 <h1 align="center">Hi, I am Rajarajan</h1>
 <h3 align="center">Recent Engineering graduate from India</h3>
 
